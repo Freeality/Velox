@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d2f6967a4edb96544ba2a4a7be871bbb
+timeCreated: 1490729675
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Endor Alt
+  fontNames:
+  - Endor Alt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

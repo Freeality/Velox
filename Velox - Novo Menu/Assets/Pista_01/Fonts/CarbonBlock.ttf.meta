@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e5b65745b1e05f34eb186c8e4dcd7921
+timeCreated: 1490729676
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Carbon Block
+  fontNames:
+  - Carbon Block
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9010086067f65564481158d140b0e0f9
+timeCreated: 1489600608
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Komika Display Kaps
+  fontNames:
+  - Komika Display Kaps
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
